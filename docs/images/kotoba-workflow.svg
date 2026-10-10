@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="780" viewBox="0 0 1500 780" role="img" aria-labelledby="title desc">
+  <title id="title">Listen, write, then review — illustrated sample workflow</title>
+  <desc id="desc">Three illustrated steps: listen without revealing the answer, write the public sample words on paper, then check answers and save mistakes for review.</desc>
+  <rect width="1500" height="780" rx="26" fill="#f6f4ee"/>
+  <g font-family="Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif" fill="#283d36">
+    <text x="45" y="67" font-size="32" font-weight="600">A daily rhythm, in three steps.</text>
+    <text x="1455" y="64" font-size="13" text-anchor="end" fill="#7d867d" letter-spacing="1.8">ILLUSTRATION · PUBLIC SAMPLE DATA</text>
+    <g fill="#fffef9" stroke="#e0e4da">
+      <rect x="35" y="104" width="460" height="631" rx="21"/>
+      <rect x="520" y="104" width="460" height="631" rx="21"/>
+      <rect x="1005" y="104" width="460" height="631" rx="21"/>
+    </g>
+    <g fill="#e9f0e8"><circle cx="75" cy="151" r="20"/><circle cx="560" cy="151" r="20"/><circle cx="1045" cy="151" r="20"/></g>
+    <g fill="#326e60" font-size="17" text-anchor="middle"><text x="75" y="157">01</text><text x="560" y="157">02</text><text x="1045" y="157">03</text></g>
+    <g font-size="25" font-weight="600"><text x="109" y="159">Listen</text><text x="594" y="159">Write on paper</text><text x="1079" y="159">Check &amp; review</text></g>
+    <!-- Listening phone: the answer is hidden. -->
+    <rect x="119" y="195" width="292" height="453" rx="29" fill="#dce4d6"/>
+    <rect x="110" y="187" width="292" height="453" rx="29" fill="#f6f4ee" stroke="#8b9e87" stroke-width="2"/>
+    <rect x="219" y="202" width="76" height="7" rx="3.5" fill="#ccd5c4"/>
+    <text x="136" y="244" font-size="21" font-family="'Hiragino Mincho ProN', 'Noto Serif JP', serif">言葉手帖</text>
+    <text x="137" y="279" font-size="15" fill="#326e60">今日听写</text>
+    <text x="376" y="279" font-size="13" fill="#7d867d" text-anchor="end">20 词</text>
+    <rect x="134" y="299" width="244" height="246" rx="16" fill="#fffef9" stroke="#e0e4da"/>
+    <text x="256" y="330" font-size="12" fill="#7d867d" text-anchor="middle">第 1 题 · 答案暂时隐藏</text>
+    <text x="246" y="411" font-family="Georgia, serif" font-size="66" text-anchor="middle">01</text>
+    <g stroke="#326e60" stroke-width="4" stroke-linecap="round">
+      <path d="M193 442v10m13-19v28m13-35v43m13-25v7m13-20v29m13-40v50m13-37v24m13-18v12m13-16v20m13-12v5"/>
+    </g>
+    <rect x="154" y="482" width="204" height="42" rx="10" fill="#326e60"/>
+    <path d="M214 495v15m8-15v15" stroke="#fffef9" stroke-width="3" stroke-linecap="round"/>
+    <text x="273" y="508" fill="#fffef9" font-size="14" text-anchor="middle">暂停听写</text>
+    <text x="138" y="575" font-size="13" fill="#7d867d">柔和女声 · 1.0 × · 落笔 6 秒</text>
+    <path d="M225 615h64" stroke="#ccd5c4" stroke-width="4" stroke-linecap="round"/>
+    <!-- Paper illustration with authored public sample words. -->
+    <g transform="rotate(-4 750 420)">
+      <rect x="600" y="212" width="306" height="422" rx="12" fill="#dedfce"/>
+      <rect x="588" y="204" width="306" height="422" rx="12" fill="#faf7ee" stroke="#d9d9c8"/>
+      <path d="M635 238v362" stroke="#d3a498" stroke-width="1.3" opacity=".55"/>
+      <path d="M608 285h266M608 345h266M608 405h266M608 465h266M608 525h266M608 585h266" stroke="#dbe0d2" stroke-width="1.4"/>
+      <text x="654" y="267" font-size="17" fill="#7d867d">日本語 · 聞き取り</text>
+      <g font-family="'Hiragino Mincho ProN', 'Noto Serif JP', serif" font-size="36" fill="#446553">
+        <text x="657" y="329">1. 緻密</text>
+        <text x="657" y="389">2. 妥強</text>
+        <text x="657" y="449">3. 顕著</text>
+      </g>
+      <path d="M679 512q35-12 83-1m-73 45q47-10 94 2" fill="none" stroke="#b8c5ad" stroke-width="2.8" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(905 395) rotate(14)">
+      <rect width="14" height="201" rx="4" fill="#c4a06c"/>
+      <rect x="3" y="1" width="3" height="198" fill="#dbc295"/>
+      <path d="M0 197h14l-7 23z" fill="#e6d1b0"/>
+      <path d="m3.8 211 3.2 9 3.2-9z" fill="#283d36"/>
+      <rect y="-16" width="14" height="24" rx="4" fill="#aebaa1"/>
+    </g>
+    <!-- Review phone, showing a sample correction rather than real history. -->
+    <rect x="1089" y="195" width="292" height="453" rx="29" fill="#dce4d6"/>
+    <rect x="1080" y="187" width="292" height="453" rx="29" fill="#f6f4ee" stroke="#8b9e87" stroke-width="2"/>
+    <rect x="1189" y="202" width="76" height="7" rx="3.5" fill="#ccd5c4"/>
+    <text x="1106" y="247" font-size="21">核对答案</text>
+    <text x="1107" y="277" font-size="13" fill="#7d867d">自己标错，留下记忆的线索。</text>
+    <rect x="1104" y="297" width="244" height="94" rx="12" fill="#fffef9" stroke="#e0e4da"/>
+    <text x="1121" y="330" font-size="24" font-family="'Hiragino Mincho ProN', 'Noto Serif JP', serif">緻密</text>
+    <text x="1122" y="361" font-size="14" fill="#7d867d">ちみつ · 细致；缜密</text>
+    <circle cx="1322" cy="327" r="11" fill="#e9f0e8"/>
+    <path d="m1317 327 4 4 7-8" stroke="#326e60" stroke-width="2" fill="none"/>
+    <rect x="1104" y="401" width="244" height="132" rx="12" fill="#faf0e7" stroke="#e5c8b6"/>
+    <text x="1121" y="435" font-size="24" font-family="'Hiragino Mincho ProN', 'Noto Serif JP', serif">妥協</text>
+    <text x="1330" y="431" font-size="12" text-anchor="end" fill="#a26d46">汉字错误</text>
+    <text x="1122" y="464" font-size="14" fill="#7d867d">だきょう · 妥协；让步</text>
+    <text x="1122" y="498" font-size="13" fill="#a26d46">错写「妥強」 → 明日复习</text>
+    <rect x="1104" y="551" width="244" height="43" rx="10" fill="#326e60"/>
+    <text x="1226" y="578" font-size="15" fill="#fffef9" text-anchor="middle">其余正确并保存</text>
+    <path d="M1195 615h64" stroke="#ccd5c4" stroke-width="4" stroke-linecap="round"/>
+    <g text-anchor="middle" font-size="16" fill="#7d867d">
+      <text x="265" y="691">Kana + an example sentence</text>
+      <text x="750" y="691">A quiet moment with your notebook</text>
+      <text x="1235" y="691">Your mistakes become the next review</text>
+    </g>
+  </g>
+</svg>

@@ -1,6 +1,8 @@
-# Kotoba Note · 言葉手帖
+# 📒 Kotoba Note · 言葉手帖
 
-[简体中文](README.zh-CN.md)
+[简体中文](README.zh-CN.md) · [![Checks](https://github.com/Chenqiang-Zhang/kotoba-dictation/actions/workflows/check.yml/badge.svg)](https://github.com/Chenqiang-Zhang/kotoba-dictation/actions/workflows/check.yml)
+
+![Kotoba Note illustrated cover: a Japanese listening and paper-writing notebook](docs/images/kotoba-cover.svg)
 
 A mobile-friendly Japanese dictation notebook: listen to a reading and an example
 sentence, write on paper, then check the answers and mark mistakes yourself.
@@ -11,7 +13,12 @@ voices**. It contains no personal MOJi study history or production account setti
 The samples demonstrate the workflow; they are not an official JLPT list or a
 verified ranking of frequently tested N1 vocabulary.
 
-## Quick start
+- 🎧 **Listen at your pace** — choose a voice, adjust speed and writing pauses, or replay.
+- ✍️ **Write on paper** — keep the answer hidden until you are ready to check.
+- 🌱 **Review mistakes** — daily selection prioritizes words due for another attempt.
+- 📚 **Bring your own words** — import a JSON catalog and keep local practice records.
+
+## 🚀 Quick start
 
 Install Node.js **22.13 or newer** and Git, then:
 
@@ -34,7 +41,11 @@ even though practice records are scoped by identity. Run a separate installation
 for each owner. This starter does not supply authentication for a generic public
 Worker deployment.
 
-## Practice
+## ✍️ Practice
+
+![Illustrated practice workflow: listen, write on paper, then check and review](docs/images/kotoba-workflow.svg)
+
+*Workflow illustration using public sample content.*
 
 1. Start today's practice. The answer stays hidden while you write on paper.
 2. Listen to the question number, kana reading, and example sentence. Adjust the
@@ -49,7 +60,7 @@ only if your import supplies them. A mistake is due tomorrow; subsequent correct
 reviews are scheduled after 3, 7, 14, and 30 days. A saved daily word snapshot
 survives refreshes, restarts, and later catalog imports.
 
-## Import your own words
+## 📚 Import your own words
 
 Open **词库与导入**, choose replace or merge, and select a JSON file. Start with
 [the import example](examples/words.example.json); the complete format is in
@@ -80,7 +91,7 @@ Imports are validated before database writes. This edition does not log into MOJ
 scrape an account, or enable automatic synchronization. You must obtain your own
 word data and supply an import file. Missing example sentences remain missing.
 
-## Voices
+## 🎧 Voices
 
 The sample bank includes recorded **四国めたん** and **春日部つむぎ** speech,
 with complete downloads before playback. Imported custom phrases need their own
@@ -105,7 +116,7 @@ audio reveal their text: keep personal generated variants private, and never pus
 them to this public template. Public-source checks intentionally allow only sample
 phrases. See [the audio terms and credits](THIRD_PARTY_NOTICES.md).
 
-## Data, backup, and deployment
+## 🔒 Data, backup, and deployment
 
 Local catalog, sessions, grades, and notes stay in `.wrangler/state`. They are
 ignored by Git. Use the interface's JSON export for a readable record backup; it
@@ -122,7 +133,7 @@ gateway authentication. Keep that deployment checkout separate from the public
 template. No production project ID or credentials are supplied here. A private
 Sites deployment for this reusable edition has not been verified by this release.
 
-## Development
+## 🛠️ Development
 
 React + Vinext/Vite + Cloudflare D1. Run:
 

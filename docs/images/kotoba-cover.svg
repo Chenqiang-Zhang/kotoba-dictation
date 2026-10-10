@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="480" viewBox="0 0 1400 480" role="img" aria-labelledby="title desc">
+  <title id="title">Kotoba Note — Japanese paper dictation</title>
+  <desc id="desc">A cream and forest green notebook illustration with headphones, Japanese lettering, and a page of notes.</desc>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#326e60" opacity=".12"/></pattern>
+  </defs>
+  <rect width="1400" height="480" rx="28" fill="#f6f4ee"/>
+  <rect x="840" y="0" width="560" height="480" rx="28" fill="#e8eee4"/>
+  <rect x="840" y="0" width="560" height="480" rx="28" fill="url(#dots)"/>
+  <g font-family="Arial, 'Hiragino Sans', 'Noto Sans JP', sans-serif">
+    <path d="M64 63c0-9 9-14 18-10v31c-9-4-18 1-18 10zm18-10c9-4 18 1 18 10v31c-9-9-18-14-18-10" fill="none" stroke="#326e60" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="116" y="78" fill="#326e60" font-size="18" letter-spacing="4">KOTOBA NOTE</text>
+    <text x="63" y="189" fill="#283d36" font-family="'Hiragino Mincho ProN', 'Noto Serif JP', serif" font-size="77" letter-spacing="8">言葉手帖</text>
+    <text x="64" y="249" fill="#283d36" font-size="32">A little listening. A page of progress.</text>
+    <text x="64" y="294" fill="#717e73" font-size="22">Listen, write on paper, and revisit what you missed.</text>
+    <g fill="#fffef9" stroke="#dbe2d4">
+      <rect x="64" y="354" width="146" height="43" rx="21.5"/>
+      <rect x="223" y="354" width="144" height="43" rx="21.5"/>
+      <rect x="380" y="354" width="175" height="43" rx="21.5"/>
+    </g>
+    <g fill="#326e60" font-size="17" text-anchor="middle">
+      <text x="137" y="382">20 sample words</text>
+      <text x="295" y="382">2 natural voices</text>
+      <text x="467" y="382">Your own notebook</text>
+    </g>
+    <text x="65" y="438" fill="#7d867d" font-size="13" letter-spacing="2">SMALL DAILY PRACTICE · JAPANESE DICTATION</text>
+  </g>
+  <circle cx="1114" cy="241" r="164" fill="#d7e4d4"/>
+  <g transform="translate(963 98) rotate(-7 143 158)">
+    <rect x="9" y="12" width="286" height="324" rx="14" fill="#a8baa2" opacity=".26"/>
+    <rect width="286" height="324" rx="14" fill="#fffef9" stroke="#d4ddce" stroke-width="2"/>
+    <rect width="28" height="324" rx="10" fill="#326e60"/>
+    <path d="M68 72h163M68 123h163M68 174h163M68 225h163M68 276h163" stroke="#e4e6dd" stroke-width="2"/>
+    <text x="126" y="126" fill="#326e60" font-size="78" font-family="'Hiragino Mincho ProN', 'Noto Serif JP', serif">あ</text>
+    <path d="M87 176q44-17 106 0m-97 43q32-12 82 0m-55 42q34-10 65 0" fill="none" stroke="#91aa8b" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(1198 56) rotate(13)">
+    <path d="M-46 54V24a46 46 0 0 1 92 0v30" fill="none" stroke="#283d36" stroke-width="13" stroke-linecap="round"/>
+    <rect x="-61" y="26" width="29" height="64" rx="14" fill="#326e60"/>
+    <rect x="32" y="26" width="29" height="64" rx="14" fill="#326e60"/>
+  </g>
+  <g transform="translate(914 350) rotate(-25)">
+    <rect width="15" height="102" rx="5" fill="#ba8c59"/>
+    <path d="M0 98h15l-7.5 22z" fill="#e7d4b3"/>
+    <path d="m4.3 113 3.2 7 3.2-7z" fill="#283d36"/>
+  </g>
+  <path d="M1290 337q-20 22-15 65m2-26q-28-7-28-29 27 0 28 29m0 13q24-7 28-28-25 0-28 28" fill="none" stroke="#809c76" stroke-width="3" stroke-linecap="round"/>
+</svg>
