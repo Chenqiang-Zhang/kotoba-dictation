@@ -1,0 +1,262 @@
+{
+  "voices": [
+    {
+      "id": "metan",
+      "label": "柔和女声",
+      "credit": "VOICEVOX:四国めたん",
+      "sample": "/audio/36bb89cde0dc7d28c4a88973.mp3"
+    },
+    {
+      "id": "tsumugi",
+      "label": "清晰女声",
+      "credit": "VOICEVOX:春日部つむぎ",
+      "sample": "/audio/9cab1aab3040e6b410ed4d28.mp3"
+    }
+  ],
+  "clips": {
+    "こんにちは。今日も少しずつ、日本語を練習しましょう。": {
+      "metan": "/audio/36bb89cde0dc7d28c4a88973.mp3",
+      "tsumugi": "/audio/9cab1aab3040e6b410ed4d28.mp3"
+    },
+    "第1問。": {
+      "metan": "/audio/c5409f8728b4cae176ddb59e.mp3",
+      "tsumugi": "/audio/46560be4016033f07f32b2d9.mp3"
+    },
+    "第2問。": {
+      "metan": "/audio/64306a2c3e50b56d86145201.mp3",
+      "tsumugi": "/audio/19b2b1fe74ec2d6d4cd4a649.mp3"
+    },
+    "第3問。": {
+      "metan": "/audio/6447c1edecc37a87a02fc6ae.mp3",
+      "tsumugi": "/audio/68707291c2f3b7aa712f1071.mp3"
+    },
+    "第4問。": {
+      "metan": "/audio/d4e39f82d760b8c448a72306.mp3",
+      "tsumugi": "/audio/7f2aca35867ee99a5d2ac55e.mp3"
+    },
+    "第5問。": {
+      "metan": "/audio/ec78b4cbdee8ab0bedbc0825.mp3",
+      "tsumugi": "/audio/1051a2856d35b149d033b3c3.mp3"
+    },
+    "第6問。": {
+      "metan": "/audio/7dc9af8d12c824caaa93b816.mp3",
+      "tsumugi": "/audio/d4545e0ae182a88b7f583a12.mp3"
+    },
+    "第7問。": {
+      "metan": "/audio/900bc7268e5a4d26fc961a4f.mp3",
+      "tsumugi": "/audio/8b577713695069ba9f6cb5c3.mp3"
+    },
+    "第8問。": {
+      "metan": "/audio/b704ed90b850b9e117220685.mp3",
+      "tsumugi": "/audio/a8599112d4e961938d8ff7f7.mp3"
+    },
+    "第9問。": {
+      "metan": "/audio/ce457237cb574f71a5fa2fca.mp3",
+      "tsumugi": "/audio/e1e935f2f050bed43a109e3c.mp3"
+    },
+    "第10問。": {
+      "metan": "/audio/803743e0f5f9e4810cc66b62.mp3",
+      "tsumugi": "/audio/b78f0d1b0473ff874b1bbd52.mp3"
+    },
+    "第11問。": {
+      "metan": "/audio/0855aa69e2da784cc32b5040.mp3",
+      "tsumugi": "/audio/e6c806812d562fa506f385f2.mp3"
+    },
+    "第12問。": {
+      "metan": "/audio/98b1c432939fe18cbb6fb4b8.mp3",
+      "tsumugi": "/audio/85f1efc71d8219bc8f3e6add.mp3"
+    },
+    "第13問。": {
+      "metan": "/audio/03749b1787438828662914c8.mp3",
+      "tsumugi": "/audio/ecfa6b8c8b9db91e4a3828a9.mp3"
+    },
+    "第14問。": {
+      "metan": "/audio/b4a28e46c4fefeda7b73e584.mp3",
+      "tsumugi": "/audio/78b9590bfdb4fc8c8c4a6fd1.mp3"
+    },
+    "第15問。": {
+      "metan": "/audio/b2ec321598353444a6871567.mp3",
+      "tsumugi": "/audio/86bc5321ee8d680a222961b1.mp3"
+    },
+    "第16問。": {
+      "metan": "/audio/747b42a5608425e43c40406d.mp3",
+      "tsumugi": "/audio/3e7073b3c85beef2eba95b32.mp3"
+    },
+    "第17問。": {
+      "metan": "/audio/1acf17bb7294b0d3125051f9.mp3",
+      "tsumugi": "/audio/e036a47e1c4e50e4d7db7fb0.mp3"
+    },
+    "第18問。": {
+      "metan": "/audio/ff106a9f0b29e620847d386c.mp3",
+      "tsumugi": "/audio/a7a02a427c21fd749659269b.mp3"
+    },
+    "第19問。": {
+      "metan": "/audio/41e413e508c776d6be2ba614.mp3",
+      "tsumugi": "/audio/9ebc9e562673902867c82369.mp3"
+    },
+    "第20問。": {
+      "metan": "/audio/6e7bfdd9a346d37ff16765ad.mp3",
+      "tsumugi": "/audio/19c4818e88c8bc43d99d0871.mp3"
+    },
+    "ちみつ。": {
+      "metan": "/audio/0fc8d6f57da89c5fb49e5eae.mp3",
+      "tsumugi": "/audio/e3347aac7df927f3b909d8cc.mp3"
+    },
+    "緻密な調査を重ね、計画の弱点を見つけた。": {
+      "metan": "/audio/20cfdbf437bab7db2d384bee.mp3",
+      "tsumugi": "/audio/395bcd4d9d6119a1ad3b0cb1.mp3"
+    },
+    "だきょう。": {
+      "metan": "/audio/97355dfdf2191ccaa6552ce4.mp3",
+      "tsumugi": "/audio/83d4bc3466a605ddffb31885.mp3"
+    },
+    "品質については妥協せず、納期を調整した。": {
+      "metan": "/audio/8d64a9b7433c9d28d8d1b6d1.mp3",
+      "tsumugi": "/audio/d76fd5e3d0c4720837f85da0.mp3"
+    },
+    "けんちょ。": {
+      "metan": "/audio/66a4631dc52eda968ba0e5b3.mp3",
+      "tsumugi": "/audio/230cd0f2b1284dab59bbbd5b.mp3"
+    },
+    "練習を続けた結果、発音に顕著な変化が見られた。": {
+      "metan": "/audio/2ab0dca3a81c6924c5157779.mp3",
+      "tsumugi": "/audio/3415e481049f4991f5b815d5.mp3"
+    },
+    "もさく。": {
+      "metan": "/audio/fd9d0cd19d041d4493c73135.mp3",
+      "tsumugi": "/audio/9ce9a2eada9c64c8bea6cb3f.mp3"
+    },
+    "地域の人たちは、空き家を活用する方法を模索している。": {
+      "metan": "/audio/0576de0904bf797d00b9f736.mp3",
+      "tsumugi": "/audio/2adeba1f05e607c91aaffa5c.mp3"
+    },
+    "じゅうなん。": {
+      "metan": "/audio/79a27cf022f330751a4c06b8.mp3",
+      "tsumugi": "/audio/09324959ba3e839f99942cda.mp3"
+    },
+    "状況に応じて、柔軟に役割を分担しよう。": {
+      "metan": "/audio/f025620931a5aa07fa920e0d.mp3",
+      "tsumugi": "/audio/3e6810914aea1d518f2fffaf.mp3"
+    },
+    "けねん。": {
+      "metan": "/audio/cc2db0db5f4c655f686f7774.mp3",
+      "tsumugi": "/audio/b392e7a145b98092e262668a.mp3"
+    },
+    "住民の懸念を聞き、工事の時間を見直した。": {
+      "metan": "/audio/a9e2c3b53fafb861c59fe871.mp3",
+      "tsumugi": "/audio/5e06ba29fd4487d9c428b116.mp3"
+    },
+    "すいい。": {
+      "metan": "/audio/9d46d889e0879f87d5bab8b9.mp3",
+      "tsumugi": "/audio/0d7e2a3ebadf455c5a278952.mp3"
+    },
+    "雨量の推移を確認してから、出発を決めた。": {
+      "metan": "/audio/32e308a736f9f4cd40bc2bc3.mp3",
+      "tsumugi": "/audio/c9134991a3ef9805c3e25361.mp3"
+    },
+    "しんちょう。": {
+      "metan": "/audio/98056c743f81f59c712bd7ac.mp3",
+      "tsumugi": "/audio/ff805285fb8df923949b3be5.mp3"
+    },
+    "大切な資料なので、扱いには慎重を期した。": {
+      "metan": "/audio/f6ea80316b73f28813da8825.mp3",
+      "tsumugi": "/audio/46aaaedbba7cec5fa27d2e92.mp3"
+    },
+    "いっかん。": {
+      "metan": "/audio/7d0a4bf60b71a065b39ef2db.mp3",
+      "tsumugi": "/audio/0c40f4bc375d1bbbf7cac63e.mp3"
+    },
+    "彼女は一貫して、利用者の声を大切にしている。": {
+      "metan": "/audio/6617dbf9563afe3ecfbbcb3f.mp3",
+      "tsumugi": "/audio/c0fc83d1d3dc6b4bd6376967.mp3"
+    },
+    "よち。": {
+      "metan": "/audio/4723794295a938886c6f1f82.mp3",
+      "tsumugi": "/audio/52e56af2e954f5cf6bc3a76c.mp3"
+    },
+    "この案には、まだ改善の余地がある。": {
+      "metan": "/audio/8d57d3f9e11a0cdbde400519.mp3",
+      "tsumugi": "/audio/b103c6024fbc754e5599eb39.mp3"
+    },
+    "うながす。": {
+      "metan": "/audio/2ff86c36d31848df44c2d370.mp3",
+      "tsumugi": "/audio/ae3aafd08d6be2be69652df0.mp3"
+    },
+    "司会者は参加者に、率直な意見を述べるよう促した。": {
+      "metan": "/audio/3bdc24dfde734330576ace11.mp3",
+      "tsumugi": "/audio/a2aa7e7fbef05c146256892b.mp3"
+    },
+    "くつがえす。": {
+      "metan": "/audio/519e9fd732c77c78bfdbfcb4.mp3",
+      "tsumugi": "/audio/bd18a164ad56d46a34192c0e.mp3"
+    },
+    "新たな証拠が、これまでの結論を覆した。": {
+      "metan": "/audio/8c0c33fa4802f3b882249626.mp3",
+      "tsumugi": "/audio/493c2b8f9256ee75429c544f.mp3"
+    },
+    "おぎなう。": {
+      "metan": "/audio/1563ee44f4ed3fea11b9bc5c.mp3",
+      "tsumugi": "/audio/2ee46ea701246c17a48fbd0d.mp3"
+    },
+    "説明だけでは伝わらない部分を、図で補った。": {
+      "metan": "/audio/1aef47b1212569e9e528be26.mp3",
+      "tsumugi": "/audio/280cfda3b8a66c17b1b3db7f.mp3"
+    },
+    "たずさわる。": {
+      "metan": "/audio/8e20f7015cea441373b2a7d3.mp3",
+      "tsumugi": "/audio/151884e7086c3d091477b35b.mp3"
+    },
+    "学生の頃から、地域の広報活動に携わってきた。": {
+      "metan": "/audio/d84efa762d23a44907d344cc.mp3",
+      "tsumugi": "/audio/ab7b97ec5e85aa3ed915ed5b.mp3"
+    },
+    "とどこおる。": {
+      "metan": "/audio/d57882e4e50dcc038184637f.mp3",
+      "tsumugi": "/audio/12db5bac6205739b8741295b.mp3"
+    },
+    "連絡が滞り、準備に遅れが出てしまった。": {
+      "metan": "/audio/75c9bfa34367c62b9b7f1414.mp3",
+      "tsumugi": "/audio/93e488ebe7f683bf6adfe694.mp3"
+    },
+    "みすえる。": {
+      "metan": "/audio/be67f16eb798f876f894a8ce.mp3",
+      "tsumugi": "/audio/2ee51fa0e582e72f43103bda.mp3"
+    },
+    "将来を見据えて、基礎から学び直している。": {
+      "metan": "/audio/746364745f202b2beed2c141.mp3",
+      "tsumugi": "/audio/eac27588021cca6c4abcaa46.mp3"
+    },
+    "ふまえる。": {
+      "metan": "/audio/c996a0169f55dee26a72f20c.mp3",
+      "tsumugi": "/audio/51233393fd7032a04396d6a8.mp3"
+    },
+    "前回の反省を踏まえて、進め方を変えた。": {
+      "metan": "/audio/d860a8d2b78be35482ac7066.mp3",
+      "tsumugi": "/audio/ac041d1e0de10baa54b80f8c.mp3"
+    },
+    "へだたり。": {
+      "metan": "/audio/2c80966542c1cfb8dd57168b.mp3",
+      "tsumugi": "/audio/339597dc7a29099d02cdfdb2.mp3"
+    },
+    "理想と現実の隔たりを、少しずつ埋めていきたい。": {
+      "metan": "/audio/3007b755d4745eb308302690.mp3",
+      "tsumugi": "/audio/516d4121a6e650744bbf6d89.mp3"
+    },
+    "てごたえ。": {
+      "metan": "/audio/2e43c41b0c854a95e5f5b103.mp3",
+      "tsumugi": "/audio/995ac585fd97a3de4a84bc66.mp3"
+    },
+    "初めての発表を終え、確かな手応えを感じた。": {
+      "metan": "/audio/8c2bd20be0a127967765eab1.mp3",
+      "tsumugi": "/audio/9b6843ae40b4cd8d05b9bdd5.mp3"
+    },
+    "みとおし。": {
+      "metan": "/audio/a2599461c4862cd09334fd55.mp3",
+      "tsumugi": "/audio/161db809b109414bd794ebcf.mp3"
+    },
+    "作業がいつ終わるか、ようやく見通しが立った。": {
+      "metan": "/audio/8cb7591d206af1eee520c576.mp3",
+      "tsumugi": "/audio/58df44e1c25ee929cb87957d.mp3"
+    }
+  }
+}
